@@ -2,15 +2,39 @@
   "wallpapers": [
     {
       "author": "Sagar Salve",
-      "url": "IMAGE URL 1",
-      "name": "Felix 1",
-      "thumbnail": "IMAGE URL 1"
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W1.jpg",
+      "name": "GRW_1",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W1.jpg"
     },
     {
       "author": "Sagar Salve",
-      "url": "IMAGE URL 2",
-      "name": "Felix 2",
-      "thumbnail": "IMAGE URL 2"
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W2.jpg",
+      "name": "GRW_2",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W2.jpg"
+    },
+    {
+      "author": "Sagar Salve",
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W3.jpg",
+      "name": "GRW_3",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W3.jpg"
+    },
+    {
+      "author": "Sagar Salve",
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W4.jpg",
+      "name": "GRW_4",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W4.jpg"
+    },
+    {
+      "author": "Sagar Salve",
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png",
+      "name": "PT_1",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png"
+    },
+    {
+      "author": "Sagar Salve",
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png",
+      "name": "PT_2",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png"
     }
   ]
 }
