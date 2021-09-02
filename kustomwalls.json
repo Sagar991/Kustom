@@ -1,0 +1,16 @@
+{
+  "wallpapers": [
+    {
+      "author": "Sagar Salve",
+      "url": "IMAGE URL 1",
+      "name": "Felix 1",
+      "thumbnail": "IMAGE URL 1"
+    },
+    {
+      "author": "Sagar Salve",
+      "url": "IMAGE URL 2",
+      "name": "Felix 2",
+      "thumbnail": "IMAGE URL 2"
+    }
+  ]
+}
