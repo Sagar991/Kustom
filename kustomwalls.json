@@ -2,39 +2,27 @@
   "wallpapers": [
     {
       "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W1.jpg",
-      "name": "GRW_1",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W1.jpg"
-    },
-    {
-      "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W2.jpg",
-      "name": "GRW_2",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W2.jpg"
-    },
-    {
-      "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W3.jpg",
-      "name": "GRW_3",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W3.jpg"
-    },
-    {
-      "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W4.jpg",
-      "name": "GRW_4",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/GR_W4.jpg"
-    },
-    {
-      "author": "Sagar Salve",
       "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png",
-      "name": "PT_1",
+      "name": "GRW_1",
       "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png"
     },
     {
       "author": "Sagar Salve",
       "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png",
-      "name": "PT_2",
+      "name": "GRW_2",
       "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png"
+    },
+    {
+      "author": "Sagar Salve",
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V3.png",
+      "name": "GRW_3",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V3.png"
+    },
+    {
+      "author": "Sagar Salve",
+      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V4.png",
+      "name": "GRW_4",
+      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V4.png"
     }
   ]
 }
