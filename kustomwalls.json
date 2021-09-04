@@ -1,22 +1,46 @@
 [
 	{
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
+		"name": "PT_W1",
+		"author": "Sagar Salve",
 		"url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png",
 		"thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png",
-		"collections": "GRADIENT|ABSTRACT",
+		"collections": "PATTERN",
 		"downloadable": true,
 		"size": 345066,
-		"dimensions": "1280 x 720 px",
+		"dimensions": "1500 x 3000 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
 	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"collections": "Landscapes,Art,Material Design",
-		"downloadable": false,
+		"name": "PT_W2",
+		"author": "Sagar Salve",
+		"url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png",
+		"thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png",
+		"collections": "PATTERN",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1500 x 3000 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
+	},
+	{
+		"name": "PT_W3",
+		"author": "Sagar Salve",
+		"url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V3.png",
+		"thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V3.png",
+		"collections": "PATTERN",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1500 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "PT_W4",
+		"author": "Sagar Salve",
+		"url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V4.png",
+		"thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V4.png",
+		"collections": "PATTERN",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1500 x 3000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
 ]
