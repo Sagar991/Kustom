@@ -1,28 +1,22 @@
-{
-  "wallpapers": [
-    {
-      "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png",
-      "name": "GRW_1",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png"
-    },
-    {
-      "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png",
-      "name": "GRW_2",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V2.png"
-    },
-    {
-      "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V3.png",
-      "name": "GRW_3",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V3.png"
-    },
-    {
-      "author": "Sagar Salve",
-      "url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V4.png",
-      "name": "GRW_4",
-      "thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V4.png"
-    }
-  ]
-}
+[
+	{
+		"name": "My wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png",
+		"thumbnail": "https://raw.githubusercontent.com/Sagar991/Kustom/main/PT_V1.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
+]
